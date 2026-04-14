@@ -8,7 +8,7 @@ Due to [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.
 
 If you enjoy the papers, perhaps stop by a local chapter meetup and join in on the vibrant discussions around them. You can also discuss *PWL* events, the content in this repository, and/or anything related to *PWL* on our [Discord](https://discord.gg/Tu2VynkRWV) server.
 
-### Chapters.
+### Chapters..
 
 Let us know if you are interested in [starting one](https://github.com/papers-we-love/organizers) in your city!
 
